@@ -2,8 +2,8 @@
 
 int main()
 {
-  int a,b;
+  int a,b,c;
 printf("Dobro dosli\n");
-scanf_s(".....    ");  
-return 0;
+scanf_s("%d,%d.....    ");  
+
 }
