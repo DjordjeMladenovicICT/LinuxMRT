@@ -2,8 +2,10 @@
 
 int main()
 {
-  int a,b,c;
+  int a,b,;
 printf("Dobro dosli\n");
-scanf_s("%d,%d.....    ");  
+ printf("Dobro dosli\n");
+ printf("Dobro dosli\n");
+ printf("Dobro dosli\n");
 
 }
