@@ -2,8 +2,8 @@
 
 int main()
 {
+  int a,b;
 printf("Dobro dosli\n");
-printf("Dobro dosli\n");
-printf("Dobro dosli\n");  
+scanf_s(".....    ");  
 return 0;
 }
